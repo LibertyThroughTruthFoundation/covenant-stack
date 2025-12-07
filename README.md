@@ -206,9 +206,11 @@ We welcome contributions from the covenant community. Please read our [Contribut
 ## Community
 
 - **Website**: [libertythroughtruth.org](https://libertythroughtruth.org)
-- **Documentation**: [docs.libertythroughtruth.org](https://docs.libertythroughtruth.org)
+- **Gab**: [@LibertyThroughTruth](https://gab.com/LibertyThroughTruth) (Primary contact)
 - **X (Twitter)**: [@LTTFoundation](https://x.com/LTTFoundation)
-- **SimpleX**: [Join our private group](https://simplex.chat/contact#/?v=1&smp=smp%3A%2F%2F...)
+- **GitHub**: [LibertyThroughTruthFoundation](https://github.com/LibertyThroughTruthFoundation)
+- **Email**: [libertythroughtruth@proton.me](mailto:libertythroughtruth@proton.me)
+- **Security**: [hbdevicesecurity@pm.me](mailto:hbdevicesecurity@pm.me)
 
 ## License
 
