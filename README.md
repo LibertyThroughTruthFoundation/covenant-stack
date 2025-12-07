@@ -228,3 +228,18 @@ Built with support from the Liberty Through Truth Foundation community and inspi
 **Liberty Through Truth Foundation** - Building the Kingdom's digital infrastructure, one sovereign device at a time.
 
 > *"We are not building from scratch. We are assembling prepared components. We are the integrators, the theologians, the unifiers."*
+
+## Related Resources
+
+### The 95 Theses of Covenant Finance
+
+Before building covenant technology, we must understand what we're building against. The **[95 Theses of Covenant Finance](https://github.com/LibertyThroughTruthFoundation/95-theses-covenant-finance)** exposes the hollow slogans of modern crypto and replaces them with covenant truth.
+
+**Key Theses:**
+- Thesis #1: "Code is Law" → "Covenant is Law"
+- Thesis #2: "Trustless Systems" → "Trust-Worthy Systems"
+- Thesis #4: "Financial Sovereignty" → "Covenant Stewardship"
+- Thesis #95: "In Code We Trust" → "In God We Trust"
+
+Read the complete manifesto: https://github.com/LibertyThroughTruthFoundation/95-theses-covenant-finance
+
